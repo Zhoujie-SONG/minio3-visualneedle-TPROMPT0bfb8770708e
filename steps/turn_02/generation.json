@@ -1,0 +1,23 @@
+{
+  "raw_model_output": "<think> The user wants me to find the product behind the third item on the counter, which has two parallel strings of chili peppers. In observation 1, I can see some chili peppers on the right side of the image. I will zoom in on that area to get a better view and identify the product. </think><grounding>{\"bbox_2d\": [0.7,0.3,1.0,0.7], \"source\": \"observation_1\"}</grounding>",
+  "input_tokens": 5430,
+  "output_tokens": 105,
+  "finish_reason": "eos",
+  "runtime_seconds": 5.524335790425539,
+  "tokens_per_second": 19.006809865175097,
+  "input_image_count": 2,
+  "image_grid_thw": [
+    [
+      1,
+      80,
+      124
+    ],
+    [
+      1,
+      70,
+      144
+    ]
+  ],
+  "max_new_tokens": 2048,
+  "use_cache": true
+}

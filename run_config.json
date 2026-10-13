@@ -1,0 +1,23 @@
+{
+  "sample_id": "TPROMPT0bfb8770708e",
+  "question": "Please find the two parallel strings of chili peppers in the picture. On the counter below them, counting from left to right, what product is behind the third item?",
+  "original_image": "/home/songzhoujie/cvpr27/needle_data/images/TPROMPT0bfb8770708e.jpg",
+  "model_path": "/mnt/data2/szj/models/Mini-o3-7B-v1-complete",
+  "seed": 42,
+  "do_sample": false,
+  "use_cache": true,
+  "max_rounds": 12,
+  "max_images": 12,
+  "max_new_tokens_per_round": 2048,
+  "total_generation_budget": 8192,
+  "min_pixels": 40000,
+  "max_pixels": 2000000,
+  "protocol_runner": "/home/songzhoujie/cvpr27/vstar/run_visualneedle_minio3_smoke20.py",
+  "backend": "CacheEnabledHFBackend with output recording only",
+  "python": "/mnt/data2/szj/envs/venv_e2m/bin/python",
+  "torch": "2.5.1",
+  "transformers": "5.13.0",
+  "cuda_visible_devices": "0",
+  "started_at_utc": "2026-10-13T13:08:51.183057+00:00",
+  "images_bbox_used_as_model_input": false
+}

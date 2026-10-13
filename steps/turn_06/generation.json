@@ -1,0 +1,43 @@
+{
+  "raw_model_output": "<think> The user wants me to identify the product behind the third item on the counter, which has two parallel strings of chili peppers. In observation 5, I can see the chili peppers hanging on the right side of the image. The counter below them has some products. I need to count the items on the counter and identify the third one. The items on the counter seem to be bottles of some kind of oil or sauce. I will zoom in on the counter with the chili peppers to get a better view. </think><grounding>{\"bbox_2d\": [0.5,0.4,1.0,0.8], \"source\": \"observation_5\"}</grounding>",
+  "input_tokens": 9488,
+  "output_tokens": 146,
+  "finish_reason": "eos",
+  "runtime_seconds": 8.367153249680996,
+  "tokens_per_second": 17.449184405169866,
+  "input_image_count": 6,
+  "image_grid_thw": [
+    [
+      1,
+      80,
+      124
+    ],
+    [
+      1,
+      70,
+      144
+    ],
+    [
+      1,
+      28,
+      44
+    ],
+    [
+      1,
+      18,
+      36
+    ],
+    [
+      1,
+      10,
+      24
+    ],
+    [
+      1,
+      72,
+      140
+    ]
+  ],
+  "max_new_tokens": 2048,
+  "use_cache": true
+}

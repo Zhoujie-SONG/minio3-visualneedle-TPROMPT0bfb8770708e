@@ -1,0 +1,12 @@
+{
+  "sample_id": "TPROMPT0bfb8770708e",
+  "status": "completed",
+  "stop_reason": "image_or_turn_cap",
+  "num_rounds": 12,
+  "num_crops": 11,
+  "final_answer": "",
+  "ground_truth": "Air-dried sausage or Landjäger",
+  "normalized_string_match": false,
+  "runtime_seconds": 111.70347320474684,
+  "integrity_passed": true
+}

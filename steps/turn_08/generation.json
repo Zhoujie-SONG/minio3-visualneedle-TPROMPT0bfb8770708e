@@ -1,0 +1,53 @@
+{
+  "raw_model_output": "<think> The user wants me to identify the product behind the third item on the counter, which has two parallel strings of chili peppers. In observation 7, I can see a blackboard with some text on it. The text says \"Kinderschinken\", \"Hirschschinken\", and \"Chorizo\". The question asks for the product behind the third item. The third item on the counter seems to be a bottle of oil or sauce. I need to get a better view of the counter to see the products more clearly. </think><grounding>{\"bbox_2d\": [0.0,0.0,0.6,1.0], \"source\": \"observation_7\"}</grounding>",
+  "input_tokens": 11126,
+  "output_tokens": 153,
+  "finish_reason": "eos",
+  "runtime_seconds": 9.188299940899014,
+  "tokens_per_second": 16.651611395375276,
+  "input_image_count": 8,
+  "image_grid_thw": [
+    [
+      1,
+      80,
+      124
+    ],
+    [
+      1,
+      70,
+      144
+    ],
+    [
+      1,
+      28,
+      44
+    ],
+    [
+      1,
+      18,
+      36
+    ],
+    [
+      1,
+      10,
+      24
+    ],
+    [
+      1,
+      72,
+      140
+    ],
+    [
+      1,
+      38,
+      90
+    ],
+    [
+      1,
+      22,
+      54
+    ]
+  ],
+  "max_new_tokens": 2048,
+  "use_cache": true
+}

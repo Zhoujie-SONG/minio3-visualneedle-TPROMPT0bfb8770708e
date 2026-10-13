@@ -1,0 +1,18 @@
+{
+  "raw_model_output": "<think> The user wants me to identify a specific product on a counter. First, I need to locate the two parallel strings of chili peppers. I can see a display of chili peppers hanging in the middle-right of the image, inside the shop. I will zoom into that area to get a better view. </think><grounding>{\"bbox_2d\": [0.5,0.4,0.9,0.7], \"source\": \"original_image\"}</grounding>",
+  "input_tokens": 2710,
+  "output_tokens": 103,
+  "finish_reason": "eos",
+  "runtime_seconds": 5.551481543108821,
+  "tokens_per_second": 18.553605771752267,
+  "input_image_count": 1,
+  "image_grid_thw": [
+    [
+      1,
+      80,
+      124
+    ]
+  ],
+  "max_new_tokens": 2048,
+  "use_cache": true
+}

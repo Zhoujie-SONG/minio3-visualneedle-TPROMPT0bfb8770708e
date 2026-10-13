@@ -1,0 +1,66 @@
+[
+  {
+    "name": "original_image",
+    "path": "/home/songzhoujie/cvpr27/needle_data/TPROMPT0bfb8770708e_minio3/observations/original_image.png",
+    "size": [
+      1752,
+      1140
+    ]
+  },
+  {
+    "name": "observation_1",
+    "path": "/home/songzhoujie/cvpr27/needle_data/TPROMPT0bfb8770708e_minio3/observations/observation_1.png",
+    "size": [
+      2024,
+      988
+    ]
+  },
+  {
+    "name": "observation_2",
+    "path": "/home/songzhoujie/cvpr27/needle_data/TPROMPT0bfb8770708e_minio3/observations/observation_2.png",
+    "size": [
+      612,
+      398
+    ]
+  },
+  {
+    "name": "observation_3",
+    "path": "/home/songzhoujie/cvpr27/needle_data/TPROMPT0bfb8770708e_minio3/observations/observation_3.png",
+    "size": [
+      490,
+      239
+    ]
+  },
+  {
+    "name": "observation_4",
+    "path": "/home/songzhoujie/cvpr27/needle_data/TPROMPT0bfb8770708e_minio3/observations/observation_4.png",
+    "size": [
+      343,
+      144
+    ]
+  },
+  {
+    "name": "observation_5",
+    "path": "/home/songzhoujie/cvpr27/needle_data/TPROMPT0bfb8770708e_minio3/observations/observation_5.png",
+    "size": [
+      1960,
+      1020
+    ]
+  },
+  {
+    "name": "observation_6",
+    "path": "/home/songzhoujie/cvpr27/needle_data/TPROMPT0bfb8770708e_minio3/observations/observation_6.png",
+    "size": [
+      1273,
+      530
+    ]
+  },
+  {
+    "name": "observation_7",
+    "path": "/home/songzhoujie/cvpr27/needle_data/TPROMPT0bfb8770708e_minio3/observations/observation_7.png",
+    "size": [
+      764,
+      318
+    ]
+  }
+]
